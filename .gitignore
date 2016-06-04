@@ -10,3 +10,6 @@ __pycache__
 # Test coverage output
 .coverage
 htmlcov
+
+# Don't commit built docs
+docs/_build
