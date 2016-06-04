@@ -3,3 +3,6 @@ __pycache__
 
 # IDE specific
 .idea
+
+# Mac Finder
+.DS_Store
